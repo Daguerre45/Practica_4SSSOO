@@ -1,0 +1,1 @@
+Esto es un prueba para comprobar si se copia este archivo dentro del fichero prueba_copia.txt
